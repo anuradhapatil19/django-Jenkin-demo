@@ -8,3 +8,6 @@ class Testsample(unittest.TestCase):
 
     def test_two(self):
         print('executed test two')
+
+    def test_three(self):
+        print('executed test three')
